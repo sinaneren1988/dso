@@ -1,0 +1,11 @@
+
+osquid:UnusedPrivateMethod"ERemove this unused private "incorrectAssignmentInIfCondition" method.(ñœÂµûÿÿÿÿ
+Psquid:S1854"9Remove this useless assignment to local variable "value".(ûïþº
+dsquid:UnusedPrivateMethod
+":Remove this unused private "executeSomeConditions" method.(é£¬ºùÿÿÿÿ
+hsquid:S1871"LThis branch's code block is the same as the block for the branch on line 11.(Ïžôñÿÿÿÿÿ
+fsquid:S1192"JDefine a constant instead of duplicating this literal "SomeValue" 3 times.(³‘°˜ýÿÿÿÿ
+¡squid:S1862"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(Ïžôñÿÿÿÿÿ
+rsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ûïþº
+Zsquid:S2583"CChange this condition so that it does not always evaluate to "true"(ûïþº
+^$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(ûïþº
