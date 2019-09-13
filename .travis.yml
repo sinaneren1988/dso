@@ -1,8 +1,8 @@
 addons:
   sonarcloud:
-    organization: "berkdulger-github" # the key of the org you chose at step #3
+    organization: "sinanegitim-github" # the key of the org you chose at step #3
     token:
-      secure: "f109eeaaff1f6702a4951590b9dcffced388be71" # encrypted value of your token
+      secure: "50ce19a70d75709cfb4e08f3cbebffdd0a961a5b" # encrypted value of your token
 jdk:
   - oraclejdk8
 script:
